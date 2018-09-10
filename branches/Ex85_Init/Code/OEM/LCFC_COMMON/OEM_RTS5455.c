@@ -1232,12 +1232,20 @@ return;}
 	      			TypeCProcessStep = 0;//RTS5455_INT_CLEAR_EVENT;
 						RTS5455WaitingPingID = 0;
                     break;
-                   /*case TRTS5455_INT_PD_RESET_COMPLETE_Num:
+
+                   case TRTS5455_INT_PD_RESET_COMPLETE_Num:
                     RamDebug(0xC2);
                     UCSI_PD_RESET_COMPLETE_CHANGE = 1;
                     SET_MASK(TypeCStatus,TypeCProcessOK);
 	      			TypeCProcessStep = 0;//RTS5455_INT_CLEAR_EVENT;
-                    break;*/
+                    break;
+
+                   case TRTS5455_INT_SUPPORTED_PROVIDER_CAPABILITIES_CHANGE_Num:
+                    UCSI_SUPPORTED_PROVIDER_CAPABILITIES_CHANGE = 1;
+                    SET_MASK(TypeCStatus,TypeCProcessOK);
+	      			TypeCProcessStep = 0;
+                    break;
+                    
                    case TRTS5455_INT_SUPPORTED_CAM_CHANGE_Num:
                     #if DEBUG_UCSI_RTK
                         RamDebug(0xC1);
@@ -1259,6 +1267,7 @@ return;}
 	      			TypeCProcessStep = 0;//RTS5455_INT_CLEAR_EVENT;
 						RTS5455WaitingPingID = 0;
                     break;
+                    
 			      case TRTS5455_INT_POWER_DIRECTION_CHANGED_Num:
 					      	//RamDebug(0xDA);
 					      	//RamDebug(TypeCSMbusDataTemp[4]);
@@ -1491,12 +1500,14 @@ return;}
 	      			TypeCProcessStep = 0;//RTS5455_INT_CLEAR_EVENT;
 						RTS5455WaitingPingID = 0;
 			        break;
+			        
 			      case TRTS5455_INT_NEGOTIATED_POWER_LEVEL_CHANGE_Num:
 				      if(TRTS5455_CONNECT_STATUS(TypeCSMbusDataTemp[0]) == TRTS5455_CONNECT_STATUS_ATTACHED)
 				      {
 				        /*
 				        *   Connection is present
 				        */
+				        UCSI_NEGOTIATED_POWER_LEVEL_CHANGE = 1;
 				        Usb_Pdc_Status[0].device_connected = TRUE;
 				        //if(TRTS5455_POWER_OPERATION_MODE(TypeCSMbusDataTemp[0]) == TRTS5455_POWER_OPERATION_MODE_PD)
 				        {
@@ -3992,6 +4003,27 @@ BYTE UsbPdcRequest(BYTE usb_pdc_id, USB_PDC_REQ*request_packet, BYTE cmd, WORD p
                                     #if DEBUG_UCSI_CMD
                                     RamDebug(Ucsi_message_in[i]);
                                     #endif
+                                }
+                            }
+
+                            if(UCSI_GET_ALTERNATE_MODES_COMMAND_RECIPIENT == 0)
+                            {
+                                if(UCSI_GET_ALTERNATE_MODES_COMMAND_ALTERNATE_MODE_OFFSET == 0)
+                                {
+                                    Ucsi_message_in[0] = 0xEF;
+                                     Ucsi_message_in[1] = 0x17;
+
+                                     Ucsi_message_in[2] = 0x01;
+                                     Ucsi_message_in[3] = 0x00;
+                                     Ucsi_message_in[4] = 0x00;
+                                     Ucsi_message_in[5] = 0x00;
+                             
+                             
+                                    Ucsi_cci[1] = 0x06;
+                                }
+                                else
+                                {
+                                    Ucsi_cci[1] = 0;
                                 }
                             }
                             SET_MASK(TypeCStatus3,PdcRequestDone);

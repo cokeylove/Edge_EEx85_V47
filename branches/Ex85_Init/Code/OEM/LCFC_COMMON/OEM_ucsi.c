@@ -264,14 +264,16 @@ void UcsiHousekeeper(BYTE task_id) {
                             ECSMI_SCIEvent(AM_UCSI_EVENT);
 							 RamDebug(0x93);
                         }
-                        /*if(UCSI_NEGOTIATED_POWER_LEVEL_CHANGE)
+                        
+                        if(UCSI_NEGOTIATED_POWER_LEVEL_CHANGE)
                         {
                             RamDebug(0xE3);
                             Ucsi_Connector_Change_Status[0] |= (UCSI_CONNECTOR_STATUS_CHANGE_NEGOTIATED_POWER_LEVEL | UCSI_CONNECTOR_STATUS_CHANGE_CONNECT);
                             Ucsi_Connector_Number_Changed = 1;
                             UCSI_NEGOTIATED_POWER_LEVEL_CHANGE = 0;
                             ECSMI_SCIEvent(AM_UCSI_EVENT);
-                        }*/
+                        }
+                        
                         if(UCSI_BATTERY_CHARGE_STATUS_CHANGE)
                         {
                              #if DEBUG_UCSI_CMD
@@ -283,22 +285,25 @@ void UcsiHousekeeper(BYTE task_id) {
                             ECSMI_SCIEvent(AM_UCSI_EVENT);
 							 RamDebug(0x94);
                         }
-                        /*if(UCSI_SUPPORTED_PROVIDER_CAPABILITIES_CHANGE)
+                        
+                        if(UCSI_SUPPORTED_PROVIDER_CAPABILITIES_CHANGE)
                         {
                              RamDebug(0xE5);
                             Ucsi_Connector_Change_Status[0] |= (UCSI_CONNECTOR_STATUS_CHANGE_SUPPORTED_PROVIDER_CAPABILITIES | UCSI_CONNECTOR_STATUS_CHANGE_CONNECT);
                             Ucsi_Connector_Number_Changed = 1;
                             UCSI_SUPPORTED_PROVIDER_CAPABILITIES_CHANGE = 0;
                             ECSMI_SCIEvent(AM_UCSI_EVENT);
-                        }*/
-                        /*if(UCSI_PD_RESET_COMPLETE_CHANGE)
+                        }
+                        
+                        if(UCSI_PD_RESET_COMPLETE_CHANGE)
                         {
                              RamDebug(0xE5);
                             Ucsi_Connector_Change_Status[0] |= (UCSI_CONNECTOR_STATUS_CHANGE_PD_RESET_COMPLETE | UCSI_CONNECTOR_STATUS_CHANGE_CONNECT);
                             Ucsi_Connector_Number_Changed = 1;
                             UCSI_PD_RESET_COMPLETE_CHANGE = 0;
                             ECSMI_SCIEvent(AM_UCSI_EVENT);
-                        }*/
+                        }
+                        
                         if(UCSI_SUPPORTED_CAM_CHANGE)
                         {
                              #if DEBUG_UCSI_CMD

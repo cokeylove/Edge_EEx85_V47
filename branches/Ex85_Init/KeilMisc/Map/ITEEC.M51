@@ -1,4 +1,4 @@
-BL51 BANKED LINKER/LOCATER V6.11                                                        09/10/2018  10:06:52  PAGE 1
+BL51 BANKED LINKER/LOCATER V6.11                                                        09/10/2018  13:37:17  PAGE 1
 
 
 BL51 BANKED LINKER/LOCATER V6.11, INVOKED BY:
@@ -59,7 +59,7 @@ PROGRAM RECURSIONS REMOVED FROM CALL TREE
 <--+ ?PR?INITPMIC?OEM_POWERSEQ
 
 
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 2
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 2
 
 
 
@@ -119,7 +119,7 @@ INPUT MODULES INCLUDED:
   KEILMISC\OBJ\OEM_LED.OBJ (OEM_LED)
   KEILMISC\OBJ\OEM_HOOK.OBJ (OEM_HOOK)
   KEILMISC\OBJ\OEM_TAMPER.OBJ (OEM_TAMPER)
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 3
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 3
 
 
   KEILMISC\OBJ\OEM_BEEP.OBJ (OEM_BEEP)
@@ -179,7 +179,7 @@ INPUT MODULES INCLUDED:
   C:\KEIL\C51\LIB\C51L.LIB (?C?LNEG)
   C:\KEIL\C51\LIB\C51L.LIB (?C?ULCMP)
   C:\KEIL\C51\LIB\C51L.LIB (?C?ULSHR)
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 4
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 4
 
 
   C:\KEIL\C51\LIB\C51L.LIB (?C?LLDXDATA)
@@ -239,7 +239,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             DATA    0036H     0001H     ABSOLUTE     
             DATA    0037H     0001H     ABSOLUTE     
             DATA    0038H     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 5
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 5
 
 
             DATA    0039H     0001H     ABSOLUTE     
@@ -299,7 +299,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             IDATA   008CH     0001H     ABSOLUTE     
             IDATA   008DH     0003H     ABSOLUTE     
             IDATA   0090H     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 6
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 6
 
 
             IDATA   0091H     0001H     ABSOLUTE     
@@ -359,7 +359,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   0026H     0001H     ABSOLUTE     
             XDATA   0027H     0002H     ABSOLUTE     
             XDATA   0029H     0002H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 7
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 7
 
 
                     002BH     0015H                  *** GAP ***
@@ -419,7 +419,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   00F1H     0001H     ABSOLUTE     
                     00F2H     0007H                  *** GAP ***
             XDATA   00F9H     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 8
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 8
 
 
             XDATA   00FAH     0001H     ABSOLUTE     
@@ -479,7 +479,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   0135H     0001H     ABSOLUTE     
             XDATA   0136H     0001H     ABSOLUTE     
             XDATA   0137H     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 9
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 9
 
 
             XDATA   0138H     0001H     ABSOLUTE     
@@ -539,7 +539,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
                     0180H     0003H                  *** GAP ***
             XDATA   0183H     0001H     ABSOLUTE     
             XDATA   0184H     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 10
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 10
 
 
             XDATA   0185H     0001H     ABSOLUTE     
@@ -599,7 +599,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   01BCH     0001H     ABSOLUTE     
             XDATA   01BDH     0001H     ABSOLUTE     
             XDATA   01BEH     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 11
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 11
 
 
             XDATA   01BFH     0001H     ABSOLUTE     
@@ -659,7 +659,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   0208H     0002H     ABSOLUTE     
             XDATA   020AH     0002H     ABSOLUTE     
             XDATA   020CH     0002H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 12
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 12
 
 
             XDATA   020EH     0001H     ABSOLUTE     
@@ -719,7 +719,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   025EH     0002H     ABSOLUTE     
             XDATA   0260H     0002H     ABSOLUTE     
             XDATA   0262H     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 13
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 13
 
 
             XDATA   0263H     0001H     ABSOLUTE     
@@ -779,7 +779,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   029DH     0001H     ABSOLUTE     
             XDATA   029EH     0001H     ABSOLUTE     
             XDATA   029FH     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 14
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 14
 
 
             XDATA   02A0H     0001H     ABSOLUTE     
@@ -839,7 +839,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   02FFH     0001H     ABSOLUTE     
             XDATA   0300H     0002H     ABSOLUTE     
             XDATA   0302H     0002H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 15
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 15
 
 
             XDATA   0304H     0001H     ABSOLUTE     
@@ -899,7 +899,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   038FH     0001H     ABSOLUTE     
                     0390H     0032H                  *** GAP ***
             XDATA   03C2H     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 16
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 16
 
 
             XDATA   03C3H     0005H     ABSOLUTE     
@@ -959,7 +959,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   0455H     0001H     ABSOLUTE     
             XDATA   0456H     0001H     ABSOLUTE     
             XDATA   0457H     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 17
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 17
 
 
             XDATA   0458H     0001H     ABSOLUTE     
@@ -1019,7 +1019,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   0580H     0001H     ABSOLUTE     
             XDATA   0581H     0001H     ABSOLUTE     
             XDATA   0582H     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 18
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 18
 
 
             XDATA   0583H     0001H     ABSOLUTE     
@@ -1079,7 +1079,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
                     05D6H     0002H                  *** GAP ***
             XDATA   05D8H     0002H     ABSOLUTE     
             XDATA   05DAH     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 19
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 19
 
 
             XDATA   05DBH     0001H     ABSOLUTE     
@@ -1139,7 +1139,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   0755H     0006H     UNIT         ?XD?_GF2N_SQUARE?ORIGA_GF2NMATH
             XDATA   075BH     0006H     UNIT         ?XD?_SWAP?ORIGA_GF2NMATH
             XDATA   0761H     0008H     UNIT         ?XD?_GF2N_ISEQUAL?ORIGA_GF2NMATH
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 20
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 20
 
 
             XDATA   0769H     001CH     UNIT         ?XD?OEM_UCSI
@@ -1199,7 +1199,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   0A0AH     0001H     ABSOLUTE     
             XDATA   0A0BH     0001H     ABSOLUTE     
             XDATA   0A0CH     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 21
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 21
 
 
             XDATA   0A0DH     0001H     ABSOLUTE     
@@ -1259,7 +1259,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   0A43H     0001H     ABSOLUTE     
             XDATA   0A44H     0001H     ABSOLUTE     
             XDATA   0A45H     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 22
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 22
 
 
             XDATA   0A46H     0001H     ABSOLUTE     
@@ -1319,7 +1319,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   0A7CH     0001H     ABSOLUTE     
             XDATA   0A7DH     0001H     ABSOLUTE     
             XDATA   0A7EH     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 23
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 23
 
 
             XDATA   0A7FH     0001H     ABSOLUTE     
@@ -1379,7 +1379,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   0AB5H     0001H     ABSOLUTE     
             XDATA   0AB6H     0001H     ABSOLUTE     
             XDATA   0AB7H     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 24
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 24
 
 
             XDATA   0AB8H     0001H     ABSOLUTE     
@@ -1439,7 +1439,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   0AEEH     0001H     ABSOLUTE     
             XDATA   0AEFH     0001H     ABSOLUTE     
             XDATA   0AF0H     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 25
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 25
 
 
             XDATA   0AF1H     0001H     ABSOLUTE     
@@ -1499,7 +1499,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   0E1DH     0001H     ABSOLUTE     
             XDATA   0E1EH     0001H     ABSOLUTE     
             XDATA   0E1FH     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 26
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 26
 
 
             XDATA   0E20H     0001H     ABSOLUTE     
@@ -1559,7 +1559,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   0E8AH     0001H     ABSOLUTE     
             XDATA   0E8BH     0001H     ABSOLUTE     
             XDATA   0E8CH     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 27
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 27
 
 
             XDATA   0E8DH     0001H     ABSOLUTE     
@@ -1619,7 +1619,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   0ED7H     0001H     ABSOLUTE     
             XDATA   0ED8H     0001H     ABSOLUTE     
             XDATA   0ED9H     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 28
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 28
 
 
             XDATA   0EDAH     0001H     ABSOLUTE     
@@ -1679,7 +1679,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   1034H     0001H     ABSOLUTE     
                     1035H     0001H                  *** GAP ***
             XDATA   1036H     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 29
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 29
 
 
                     1037H     0002H                  *** GAP ***
@@ -1739,7 +1739,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   107AH     0001H     ABSOLUTE     
             XDATA   107BH     0001H     ABSOLUTE     
             XDATA   107CH     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 30
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 30
 
 
                     107DH     0001H                  *** GAP ***
@@ -1799,7 +1799,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   1133H     0001H     ABSOLUTE     
             XDATA   1134H     0001H     ABSOLUTE     
             XDATA   1135H     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 31
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 31
 
 
             XDATA   1136H     0001H     ABSOLUTE     
@@ -1859,7 +1859,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   140AH     0001H     ABSOLUTE     
                     140BH     0001H                  *** GAP ***
             XDATA   140CH     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 32
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 32
 
 
                     140DH     0001H                  *** GAP ***
@@ -1919,7 +1919,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   1606H     0001H     ABSOLUTE     
             XDATA   1607H     0001H     ABSOLUTE     
             XDATA   1608H     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 33
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 33
 
 
             XDATA   1609H     0001H     ABSOLUTE     
@@ -1979,7 +1979,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   1641H     0001H     ABSOLUTE     
             XDATA   1642H     0001H     ABSOLUTE     
             XDATA   1643H     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 34
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 34
 
 
             XDATA   1644H     0001H     ABSOLUTE     
@@ -2039,7 +2039,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   16A1H     0001H     ABSOLUTE     
             XDATA   16A2H     0001H     ABSOLUTE     
             XDATA   16A3H     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 35
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 35
 
 
             XDATA   16A4H     0001H     ABSOLUTE     
@@ -2099,7 +2099,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   1804H     0001H     ABSOLUTE     
             XDATA   1805H     0001H     ABSOLUTE     
             XDATA   1806H     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 36
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 36
 
 
             XDATA   1807H     0001H     ABSOLUTE     
@@ -2159,7 +2159,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   1915H     0001H     ABSOLUTE     
                     1916H     0002H                  *** GAP ***
             XDATA   1918H     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 37
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 37
 
 
             XDATA   1919H     0001H     ABSOLUTE     
@@ -2219,7 +2219,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
                     1B12H     0002H                  *** GAP ***
             XDATA   1B14H     0001H     ABSOLUTE     
             XDATA   1B15H     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 38
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 38
 
 
                     1B16H     0002H                  *** GAP ***
@@ -2279,7 +2279,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   1C20H     0001H     ABSOLUTE     
             XDATA   1C21H     0001H     ABSOLUTE     
             XDATA   1C22H     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 39
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 39
 
 
             XDATA   1C23H     0001H     ABSOLUTE     
@@ -2339,7 +2339,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   1D0FH     0001H     ABSOLUTE     
             XDATA   1D10H     0001H     ABSOLUTE     
             XDATA   1D11H     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 40
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 40
 
 
             XDATA   1D12H     0001H     ABSOLUTE     
@@ -2399,7 +2399,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   2008H     0001H     ABSOLUTE     
             XDATA   2009H     0001H     ABSOLUTE     
             XDATA   200AH     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 41
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 41
 
 
             XDATA   200BH     0001H     ABSOLUTE     
@@ -2459,7 +2459,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   230DH     0001H     ABSOLUTE     
             XDATA   230EH     0001H     ABSOLUTE     
             XDATA   230FH     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 42
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 42
 
 
             XDATA   2310H     0001H     ABSOLUTE     
@@ -2519,7 +2519,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             XDATA   2D3DH     0001H     ABSOLUTE     
             XDATA   2D3EH     0001H     ABSOLUTE     
             XDATA   2D3FH     0001H     ABSOLUTE     
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 43
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 43
 
 
                     2D40H     00C0H                  *** GAP ***
@@ -2579,7 +2579,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             CODE    003FH     0001H     UNIT         ?PR?PS2_INIT?CORE_PS2
             CODE    0040H     001FH     UNIT         ?CO?CORE_ITESTRING
             CODE    005FH     0003H     UNIT         ?PR?IRQ_INT9_SMBUSA?CORE_IRQ
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 44
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 44
 
 
             CODE    0062H     0003H     UNIT         ?PR?IRQ_INT10_SMBUSB?CORE_IRQ
@@ -2639,7 +2639,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             CODE    03F4H     0003H     UNIT         ?PR?IRQ_INT59_DEFERREDSPIINSTRUCTION?CORE_IRQ
             CODE    03F7H     0003H     UNIT         ?PR?IRQ_INT60_TMRINTA0?CORE_IRQ
             CODE    03FAH     0003H     UNIT         ?PR?IRQ_INT61_TMRINTA1?CORE_IRQ
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 45
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 45
 
 
             CODE    03FDH     0003H     UNIT         ?PR?IRQ_INT62_TMRINTB0?CORE_IRQ
@@ -2699,7 +2699,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             CODE    04AEH     0003H     UNIT         ?PR?IRQ_INT116_WKO111?CORE_IRQ
             CODE    04B1H     0003H     UNIT         ?PR?IRQ_INT117_WKO112?CORE_IRQ
             CODE    04B4H     0003H     UNIT         ?PR?IRQ_INT118_WKO113?CORE_IRQ
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 46
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 46
 
 
             CODE    04B7H     0003H     UNIT         ?PR?IRQ_INT119_WKO114?CORE_IRQ
@@ -2759,7 +2759,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             CODE    0867H     0003H     UNIT         ?PR?ACPI_CMD_DC?CORE_ACPI
             CODE    086AH     0007H     UNIT         ?PR?ACPI_CMD_F0?CORE_ACPI
             CODE    0871H     000AH     UNIT         ?PR?_SENDFROMACPI?CORE_ACPI
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 47
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 47
 
 
             CODE    087BH     0010H     UNIT         ?PR?ACPI_CMD_80DATA?CORE_ACPI
@@ -2819,7 +2819,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             CODE    10DAH     005EH     UNIT         ?CO?CORE_MAIN
             CODE    1138H     0032H     UNIT         ?PR?CORE_MAIN
             CODE    116AH     0072H     UNIT         ?PR?SERVICE_PCI1?CORE_PORT6064
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 48
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 48
 
 
             CODE    11DCH     0005H     UNIT         ?PR?CMD_20?CORE_PORT6064
@@ -2879,7 +2879,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             CODE    1903H     000EH     UNIT         ?PR?DELAYINACT?CORE_SMBUS
             CODE    1911H     00A1H     UNIT         ?PR?_RESETSMBUS?CORE_SMBUS
             CODE    19B2H     01CDH     UNIT         ?PR?_BRWSMBUS?CORE_SMBUS
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 49
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 49
 
 
             CODE    1B7FH     01BFH     UNIT         ?PR?_BRSMBUSBLOCK?CORE_SMBUS
@@ -2939,7 +2939,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             CODE    32F9H     00A1H     UNIT         ?PR?_FIND_PATHS?CORE_SCAN
             CODE    339AH     0069H     UNIT         ?PR?DEBOUNCE_KEY?CORE_SCAN
             CODE    3403H     0006H     UNIT         ?PR?READ_SCAN_LINES?CORE_SCAN
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 50
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 50
 
 
             CODE    3409H     004EH     UNIT         ?PR?CHANGE_VALID?CORE_SCAN
@@ -2999,7 +2999,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             CODE    45BEH     0086H     UNIT         ?PR?AUXDEVICEPLUGOUTCLEARVARIABLES?CORE_PS2
             CODE    4644H     0032H     UNIT         ?PR?POLLINGAUXDEVICECENTER?CORE_PS2
             CODE    4676H     009DH     UNIT         ?PR?_UPDATEEXTKEYBOARD?CORE_PS2
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 51
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 51
 
 
             CODE    4713H     000CH     UNIT         ?PR?UPDATEAUXKBDEVICE?CORE_PS2
@@ -3059,7 +3059,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             CODE    60EFH     05F6H     UNIT         ?CO?OEM_SCANTABS
             CODE    66E5H     0040H     UNIT         ?CO?OEM_AOU
             CODE    6725H     015FH     UNIT         ?CO?OEM_DEBUG
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 52
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 52
 
 
             CODE    6884H     0094H     UNIT         ?CO?OEM_BATTERY
@@ -3119,7 +3119,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             BANK0   8BB2H     000DH     UNIT         ?PR?HOOK_TIMER50MSEVENTA?OEM_MAIN
             BANK0   8BBFH     0009H     UNIT         ?PR?HOOK_TIMER50MSEVENTB?OEM_MAIN
             BANK0   8BC8H     004CH     UNIT         ?PR?HOOK_TIMER50MSEVENTC?OEM_MAIN
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 53
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 53
 
 
             BANK0   8C14H     0068H     UNIT         ?PR?HOOK_TIMER100MSEVENTA?OEM_MAIN
@@ -3179,7 +3179,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             BANK0   A28EH     0048H     UNIT         ?PR?SETS5GPIO?OEM_POWERSEQ
             BANK0   A2D6H     0017H     UNIT         ?PR?S5S0_EC_ON_HI?OEM_POWERSEQ
             BANK0   A2EDH     0001H     UNIT         ?PR?S5S0_EC_ON2_HI?OEM_POWERSEQ
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 54
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 54
 
 
             BANK0   A2EEH     000CH     UNIT         ?PR?S5S0_VDDP?OEM_POWERSEQ
@@ -3239,7 +3239,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             BANK0   A9D4H     01B0H     UNIT         ?PR?OEM_POWERSEQ
             BANK0   AB84H     0001H     UNIT         ?PR?OEM_SYSTEM_S0?OEM_POWER
             BANK0   AB85H     0023H     UNIT         ?PR?OEM_SYSTEM_S3?OEM_POWER
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 55
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 55
 
 
             BANK0   ABA8H     000DH     UNIT         ?PR?OEM_SYSTEM_S5?OEM_POWER
@@ -3299,7 +3299,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             BANK0   C37AH     0039H     UNIT         ?PR?VOSI2CWRITE2READ?OEM_ACPI
             BANK0   C3B3H     0072H     UNIT         ?PR?OSI2CBUSCOMD?OEM_ACPI
             BANK0   C425H     0055H     UNIT         ?PR?HOOK_ACPICOMMAND?OEM_ACPI
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 56
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 56
 
 
             BANK0   C47AH     0005H     UNIT         ?PR?OEM_ACPI_GEN_INT?OEM_ACPI
@@ -3359,7 +3359,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             BANK0   D03EH     026FH     UNIT         ?PR?_HOOK_60PORT?OEM_6064
             BANK0   D2ADH     00A5H     UNIT         ?PR?_HOOK_64PORT?OEM_6064
             BANK0   D352H     0006H     UNIT         ?PR?_HOOK_KEYBOARD_CMD?OEM_6064
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 57
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 57
 
 
             BANK0   D358H     0006H     UNIT         ?PR?_HOOK_KEYBOARD_CMD_PARAMETER?OEM_6064
@@ -3419,7 +3419,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             BANK0   DD2FH     0001H     UNIT         ?PR?HOOK_IRQ_INT16_SMBUSC?OEM_IRQ
             BANK0   DD30H     0001H     UNIT         ?PR?HOOK_IRQ_INT17_WKO24?OEM_IRQ
             BANK0   DD31H     0001H     UNIT         ?PR?HOOK_IRQ_INT18_PS2INTERRUPT2?OEM_IRQ
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 58
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 58
 
 
             BANK0   DD32H     0001H     UNIT         ?PR?HOOK_IRQ_INT19_PS2INTERRUPT1?OEM_IRQ
@@ -3479,7 +3479,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             BANK0   DD9EH     0001H     UNIT         ?PR?HOOK_IRQ_INT73_WKO71?OEM_IRQ
             BANK0   DD9FH     0001H     UNIT         ?PR?HOOK_IRQ_INT74_WKO72?OEM_IRQ
             BANK0   DDA0H     0001H     UNIT         ?PR?HOOK_IRQ_INT75_WKO73?OEM_IRQ
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 59
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 59
 
 
             BANK0   DDA1H     0001H     UNIT         ?PR?HOOK_IRQ_INT76_WKO74?OEM_IRQ
@@ -3539,7 +3539,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             BANK0   DE32H     0001H     UNIT         ?PR?HOOK_IRQ_INT127_WKO122?OEM_IRQ
             BANK0   DE33H     0007H     UNIT         ?PR?HOOK_IRQ_INT128_WKO128?OEM_IRQ
             BANK0   DE3AH     0001H     UNIT         ?PR?HOOK_IRQ_INT129_WKO129?OEM_IRQ
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 60
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 60
 
 
             BANK0   DE3BH     0001H     UNIT         ?PR?HOOK_IRQ_INT130_WKO130?OEM_IRQ
@@ -3599,7 +3599,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             BANK0   E172H     0015H     UNIT         ?PR?_CHKTIMESCALE?OEM_TIMER
             BANK0   E187H     001EH     UNIT         ?PR?_CHANGEPLLFREQUENCY?OEM_HSPI
             BANK0   E1A5H     0001H     UNIT         ?PR?EXAMPLE_ASM?OEM_ASM
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 61
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 61
 
 
             BANK0   E1A6H     004CH     UNIT         ?PR?CHK_PDEVSTUS?OEM_EEPROM
@@ -3659,7 +3659,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             BANK1   8917H     0022H     UNIT         ?PR?HOOK_SETUP_SCANNER_PNTR?OEM_SCANTABS
             BANK1   8939H     00ACH     UNIT         ?PR?LOADKBMATRIXTORAM?OEM_SCANTABS
             BANK1   89E5H     0001H     UNIT         ?PR?HOOK_SETGPIOSCANPINH?OEM_SCANTABS
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 62
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 62
 
 
             BANK1   89E6H     0001H     UNIT         ?PR?HOOK_SETGPIOSCANPINL?OEM_SCANTABS
@@ -3719,7 +3719,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             BANK1   A5C8H     0037H     UNIT         ?PR?MUTEPROCESS?OEM_LPC
             BANK1   A5FFH     0001H     UNIT         ?PR?CAMERAPROCESS?OEM_LPC
             BANK1   A600H     000CH     UNIT         ?PR?WIRELESSPROCESS?OEM_LPC
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 63
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 63
 
 
             BANK1   A60CH     0049H     UNIT         ?PR?IFFSPROCESS?OEM_LPC
@@ -3779,7 +3779,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             BANK1   BD4DH     0019H     UNIT         ?PR?OEM_BMA255
             BANK1   BD66H     0109H     UNIT         ?PR?UPDATEBATTERYLEVEL?OEM_BATTERY
             BANK1   BE6FH     0316H     UNIT         ?PR?UPDATEEDGENAMESPACE?OEM_BATTERY
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 64
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 64
 
 
             BANK1   C185H     01A1H     UNIT         ?PR?UPDATENAMESPACE?OEM_BATTERY
@@ -3839,7 +3839,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             BANK1   E185H     0098H     UNIT         ?PR?CHARGEIC_INITACDC?OEM_BATTERY
             BANK1   E21DH     0437H     UNIT         ?PR?OEM_BATTERY
 
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 65
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 65
 
 
             * * * * * * *   C O D E   B A N K   2   * * * * * * *
@@ -3899,7 +3899,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
             BANK2   BCDCH     0083H     UNIT         ?PR?P2P_CHARGE_CONDITION?OEM_RTS5455
             BANK2   BD5FH     0031H     UNIT         ?PR?SINKPOWER_RECEIVEBYTE?OEM_RTS5455
             BANK2   BD90H     0366H     UNIT         ?PR?OEM_RTS5455
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 66
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 66
 
 
             BANK2   C0F6H     0219H     UNIT         ?PR?_MPHOUSEKEEPER?OEM_ENHANCEDPCBEEP
@@ -3959,7 +3959,7 @@ LINK MAP OF MODULE:  ITEEC.ABS (CORE_IRQ)
                     0000H     8000H                  *** GAP ***
             BANK5   8000H     0005H     UNIT         ?PR?BANK5_TEST?OEM_BANK5_FUNC
 
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 67
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 67
 
 
             * * * * * * *   C O D E   B A N K   6   * * * * * * *
@@ -4019,7 +4019,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?ENABLEPMC3IBFINT?OEM_IRQ
   +--> ?PR?HOOK_ENABLEINTERRUPT?OEM_IRQ
 
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 68
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 68
 
 
 ?PR?CORE_INIT_REGS?CORE_INIT                     -----    -----      -----    -----      -----    -----
@@ -4079,7 +4079,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?_HOTKEY_FN_F9?OEM_SCANTABS
   +--> ?PR?_HOTKEY_FN_F10?OEM_SCANTABS
   +--> ?PR?_HOTKEY_FN_F11?OEM_SCANTABS
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 69
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 69
 
 
   +--> ?PR?_HOTKEY_FN_F12?OEM_SCANTABS
@@ -4139,7 +4139,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?_SIMPLE_CODE?CORE_XLT
 
 ?PR?_HOTKEY_FN_F3?OEM_SCANTABS                   -----    -----      -----    -----      07A0H    0001H
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 70
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 70
 
 
   +--> ?PR?OEM_CHECKFXKEYMODE?OEM_SCANTABS
@@ -4199,7 +4199,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?_SIMPLE_CODE?CORE_XLT
 
 ?PR?_HOTKEY_1?OEM_SCANTABS                       -----    -----      -----    -----      07A0H    0001H
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 71
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 71
 
 
   +--> ?PR?OEM_SCANTABS
@@ -4259,7 +4259,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?OEM_HOOK_POWER_90WSYSTEM?OEM_HOOK
   +--> ?PR?EDGE_INITIAL?OEM_EDGE
   +--> ?PR?GSENSOR_INITIAL?OEM_GSNS
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 72
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 72
 
 
   +--> ?PR?BATTERY_INITIAL?OEM_BATTERY
@@ -4319,7 +4319,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?_FSCEHIGHLEVEL?OEM_FLASH
   +--> ?PR?FSPIROMCHECKBUSY?OEM_FLASH
   +--> ?PR?FSPIROMWRITEDISABLE?OEM_FLASH
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 73
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 73
 
 
 
@@ -4379,7 +4379,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 
 ?PR?_CHECKSMBUSFREE?CORE_SMBUS                   -----    -----      -----    -----      -----    -----
   +--> ?PR?CORE_SMBUS
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 74
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 74
 
 
 
@@ -4439,7 +4439,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?HOOK_A20OFF?OEM_GPIO
   +--> ?PR?_CORE_60PORT?CORE_PORT6064
   +--> ?PR?_HOOK_60PORT?OEM_6064
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 75
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 75
 
 
   +--> ?PR?_KBC_DATATOHOST?CORE_HOSTIF
@@ -4499,7 +4499,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?_RESPONSEKBDATA?CORE_PORT6064
 
 ?PR?CMD_60?CORE_PORT6064                         -----    -----      -----    -----      -----    -----
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 76
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 76
 
 
   +--> ?PR?_SETHANDLECMDDATA?CORE_PORT6064
@@ -4559,7 +4559,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 ?PR?_SEND2PORTNWAIT?CORE_PS2                     -----    -----      -----    -----      0795H    0005H
   +--> ?PR?CLAERPS2IFPENDINGEVENT?CORE_PS2
   +--> ?PR?CORE_PS2
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 77
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 77
 
 
   +--> ?PR?_BEXTAUXTIMEOUTCHECK?CORE_PS2
@@ -4619,7 +4619,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 
 ?PR?CMD_FX?CORE_PORT6064                         -----    -----      -----    -----      -----    -----
   +--> ?PR?HOOK_A20ON?OEM_GPIO
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 78
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 78
 
 
   +--> ?PR?HOOK_KBRSTON?OEM_GPIO
@@ -4679,7 +4679,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 ?PR?_CMD_56?OEM_6064                             -----    -----      -----    -----      -----    -----
   +--> ?PR?_DATA2PORT?OEM_ACPI
 
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 79
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 79
 
 
 ?PR?CMD_B4?OEM_6064                              -----    -----      -----    -----      -----    -----
@@ -4739,7 +4739,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?_SEND2PORT?CORE_PS2
 
 ?PR?_SEND2PORT?CORE_PS2                          -----    -----      -----    -----      0792H    0004H
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 80
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 80
 
 
   +--> ?PR?CLAERPS2IFPENDINGEVENT?CORE_PS2
@@ -4799,7 +4799,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 
 ?PR?_HOOK_60PORT?OEM_6064                        -----    -----      -----    -----      078DH    0003H
   +--> ?PR?_CMD_01?OEM_6064
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 81
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 81
 
 
   +--> ?PR?OEM_6064
@@ -4859,7 +4859,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?_CACHEDMA?OEM_INIT
   +--> ?PR?DISABLEALLINTERRUPT?CORE_IRQ
   +--> ?PR?OEM_RFID
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 82
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 82
 
 
   +--> ?PR?_READ_EFLASH_BYTE?OEM_FLASH
@@ -4919,7 +4919,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 ?PR?SENDALPSIDSEQUENCE?OEM_PS2                   -----    -----      -----    -----      -----    -----
   +--> ?PR?_SEND2PORTNWAIT?CORE_PS2
   +--> ?PR?OEM_PS2
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 83
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 83
 
 
 
@@ -4979,7 +4979,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 ?PR?_CMD_58?OEM_6064                             -----    -----      -----    -----      0790H    0001H
 
 ?PR?_CMD_59?OEM_6064                             -----    -----      -----    -----      0790H    0003H
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 84
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 84
 
 
   +--> ?PR?ENABLEPS2PORT_2?CORE_PS2
@@ -5039,7 +5039,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?LOAD_TIMER_B?CORE_TIMERS
 
 ?PR?_KEYBOARDCMD?CORE_PORT6064                   -----    -----      -----    -----      078DH    0005H
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 85
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 85
 
 
   +--> ?PR?_KBCMDACKBYTECUNT?CORE_PS2
@@ -5099,7 +5099,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?_TRANSLATE_TO_PC?CORE_HOSTIF
   +--> ?PR?_DATA_TO_HOST?CORE_HOSTIF
 
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 86
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 86
 
 
 ?PR?_TRANSLATE_TO_PC?CORE_HOSTIF                 -----    -----      -----    -----      -----    -----
@@ -5159,7 +5159,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 
 ?PR?SETTOTALBURSTTIME?CORE_ACPI                  -----    -----      -----    -----      -----    -----
   +--> ?PR?DISABLEALLINTERRUPT?CORE_IRQ
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 87
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 87
 
 
 
@@ -5219,7 +5219,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?_CMD_44?OEM_6064
   +--> ?PR?ERASE_EEPROMALL?OEM_EEPROM
   +--> ?PR?_CMD_51?OEM_6064
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 88
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 88
 
 
   +--> ?PR?_CMD_56?OEM_6064
@@ -5279,7 +5279,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 ?PR?INITGSENSOR?OEM_GSNS                         -----    -----      -----    -----      0796H    0004H
   +--> ?PR?OEM_GSNS
   +--> ?PR?_BRWSMBUS?CORE_SMBUS
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 89
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 89
 
 
 
@@ -5339,7 +5339,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?_CMD_53?OEM_6064
   +--> ?PR?_CMD_58?OEM_6064
   +--> ?PR?_CMD_59?OEM_6064
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 90
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 90
 
 
   +--> ?PR?_CMD_B0?OEM_6064
@@ -5399,7 +5399,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 ?PR?_GETCONNECTORSTATUS_RTS5455?OEM_R...         -----    -----      -----    -----      07AEH    0001H
   +--> ?PR?OEM_RTS5455
   +--> ?PR?_BWSMBUSBLOCK?CORE_SMBUS
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 91
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 91
 
 
   +--> ?PR?_DELAY1MS?CORE_TIMERS
@@ -5459,7 +5459,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 ?PR?VRTSSMBUSRBYTE?OEM_ACPI                      -----    -----      -----    -----      -----    -----
   +--> ?PR?OEM_ACPI
   +--> ?PR?_BRWSMBUS?CORE_SMBUS
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 92
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 92
 
 
 
@@ -5519,7 +5519,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 ?PR?VOSSMBUSWBLCOK?OEM_ACPI                      -----    -----      -----    -----      -----    -----
   +--> ?PR?OEM_ACPI
   +--> ?PR?_BWSMBUSBLOCK?CORE_SMBUS
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 93
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 93
 
 
 
@@ -5579,7 +5579,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?_HOOK_TIMER1MSEVENT?OEM_MAIN
 
 ?PR?_HOOK_TIMER1MSEVENT?OEM_MAIN                 -----    -----      -----    -----      078DH    0001H
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 94
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 94
 
 
   +--> ?PR?POLLINGBIOS80PORT?OEM_MAIN
@@ -5639,7 +5639,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 ?PR?_GETBATDATA?OEM_BATTERY                      -----    -----      -----    -----      0794H    0001H
   +--> ?PR?OEM_BATTERY
   +--> ?PR?_BRSMBUSBLOCK?CORE_SMBUS
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 95
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 95
 
 
   +--> ?PR?_BRWSMBUS?CORE_SMBUS
@@ -5699,7 +5699,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?OEM_EVENT
   +--> ?PR?THROTTLINGCONTROL?OEM_FAN
   +--> ?PR?TWR_BATCLEAR?OEM_BATTERY
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 96
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 96
 
 
   +--> ?PR?IBMBATTERYSTORE?OEM_BATTERY
@@ -5759,7 +5759,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?_SIMPLE_CODE?CORE_XLT
   +--> ?PR?_BUFFER_KEY?CORE_SCAN
   +--> ?PR?_ECQEVENT?OEM_ACPI
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 97
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 97
 
 
 
@@ -5819,7 +5819,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 ?PR?_OEM_HOOK_SKIP_SEND_KEY?OEM_SCANTABS         -----    -----      -----    -----      079BH    0001H
   +--> ?CO?OEM_SCANTABS
 
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 98
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 98
 
 
 ?PR?_SSKEY3_PROC?CORE_XLT                        -----    -----      -----    -----      079BH    0003H
@@ -5879,7 +5879,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?OEM_SYSTEM_S3?OEM_POWER
   +--> ?PR?S34TODSX?OEM_POWERSEQ
   +--> ?PR?DSXTOS34?OEM_POWERSEQ
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 99
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 99
 
 
   +--> ?PR?_RAMDEBUG?OEM_MAILBOX
@@ -5939,7 +5939,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?_SENDPDOSET?OEM_RTS5455
 
 ?PR?_SENDPDOSET?OEM_RTS5455                      -----    -----      -----    -----      -----    -----
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 100
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 100
 
 
   +--> ?PR?OEM_RTS5455
@@ -5999,7 +5999,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 ?PR?LOWPOWER_DISFUNCTION?OEM_POWERSEQ            -----    -----      -----    -----      -----    -----
   +--> ?PR?_BRWSMBUS?CORE_SMBUS
 
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 101
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 101
 
 
 ?PR?OEM_SYSTEM_S5_S0?OEM_POWER                   -----    -----      -----    -----      -----    -----
@@ -6059,7 +6059,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?_ERASE_EFLASH_1K?OEM_FLASH
   +--> ?PR?OEM_EEPROM
   +--> ?PR?_WRITE_EFLASH_1BYTE?OEM_FLASH
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 102
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 102
 
 
   +--> ?PR?ENABLEALLINTERRUPT?CORE_IRQ
@@ -6119,7 +6119,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 
 ?PR?DSXTOS34?OEM_POWERSEQ                        -----    -----      -----    -----      -----    -----
   +--> ?PR?OEM_POWERSEQ
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 103
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 103
 
 
   +--> ?PR?_DELAY1MS?CORE_TIMERS
@@ -6179,7 +6179,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 ?PR?HOOK_TIMER10MSEVENTA?OEM_MAIN                -----    -----      -----    -----      -----    -----
   +--> ?PR?SCANADC_BOARDID?OEM_ADC
   +--> ?PR?BACKLIGHT_CONTROL?OEM_LCD
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 104
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 104
 
 
   +--> ?PR?_SIMPLE_CODE?CORE_XLT
@@ -6239,7 +6239,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?LANWAKELOW?OEM_EVENT
   +--> ?PR?PSWPRESSED?OEM_EVENT
   +--> ?PR?PSWRELEASED?OEM_EVENT
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 105
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 105
 
 
   +--> ?PR?SENDPOWERMODECHANGETOPDC?OEM_RTS5455
@@ -6299,7 +6299,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?_RAMDEBUG?OEM_MAILBOX
   +--> ?PR?_BWSMBUSBLOCK?CORE_SMBUS
   +--> ?PR?_BSMBUSRECEIVEBYTE?CORE_SMBUS
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 106
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 106
 
 
   +--> ?PR?_BRSMBUSBLOCK?CORE_SMBUS
@@ -6359,7 +6359,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 ?PR?_CHARGERTURBO?OEM_ADC                        -----    -----      -----    -----      079EH    0001H
 
 ?PR?_CHK_AC_STPP?OEM_ADC                         -----    -----      -----    -----      079EH    0003H
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 107
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 107
 
 
   +--> ?PR?_CPUTURBO?OEM_ADC
@@ -6419,7 +6419,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 ?PR?LED_SLOW_BLINK?OEM_LED                       -----    -----      -----    -----      -----    -----
   +--> ?PR?OEM_LED
 
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 108
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 108
 
 
 ?PR?TIMER50MSEVENTB?CORE_MAIN                    -----    -----      -----    -----      -----    -----
@@ -6479,7 +6479,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?OEM_BATTERY
   +--> ?PR?CHK_SHUTDOWN_VOLT?OEM_BATTERY
   +--> ?PR?UPDATENAMESPACE?OEM_BATTERY
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 109
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 109
 
 
   +--> ?PR?CHKLENOVOPMFW?OEM_BATTERY
@@ -6539,7 +6539,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?FIRSTGETBATDATA?OEM_BATTERY
   +--> ?PR?UPDATEBATTERYLEVEL?OEM_BATTERY
   +--> ?PR?IBMBATTERYSTORE?OEM_BATTERY
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 110
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 110
 
 
   +--> ?PR?_ECSMI_SCIEVENT?OEM_ACPI
@@ -6599,7 +6599,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?OEM_MAIN
   +--> ?PR?_BRWSMBUS?CORE_SMBUS
 
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 111
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 111
 
 
 ?PR?OEM_FAN_SPEED?OEM_FAN                        -----    -----      -----    -----      078DH    0002H
@@ -6659,7 +6659,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 
 ?PR?PLAYSNBEEP?OEM_ENHANCEDPCBEEP                -----    -----      -----    -----      078DH    0001H
   +--> ?PR?OEM_ENHANCEDPCBEEP
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 112
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 112
 
 
   +--> ?PR?_DATATOFREQUENCE?OEM_ENHANCEDPCBEEP
@@ -6719,7 +6719,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 ?PR?VGA_INITIAL_TEMP?OEM_VGA_AMD                 -----    -----      -----    -----      -----    -----
   +--> ?PR?OEM_VGA_AMD
   +--> ?PR?_BWSMBUSBLOCK?CORE_SMBUS
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 113
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 113
 
 
   +--> ?PR?_RESETSMBUS?CORE_SMBUS
@@ -6779,7 +6779,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 
 ?PR?_ECC_VERIFYRESPONSE?ORIGA_ECC                -----    -----      -----    -----      078FH    000BH
   +--> ?PR?ORIGA_ECC
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 114
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 114
 
 
   +--> ?PR?_GF2N_ISZERO?ORIGA_GF2NMATH
@@ -6839,7 +6839,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 
 ?PR?HOOK_TIMER1SECEVENTC?OEM_MAIN                -----    -----      -----    -----      -----    -----
   +--> ?PR?DETECTFANID?OEM_FAN
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 115
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 115
 
 
   +--> ?PR?OEM_THERMAL_CONTROL?OEM_FAN
@@ -6899,7 +6899,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?OEM_FAN
   +--> ?PR?RSMRST_SHUTDOWN?OEM_BATTERY
 
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 116
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 116
 
 
 ?PR?THROTTLINGWIN?OEM_FAN                        -----    -----      -----    -----      -----    -----
@@ -6959,7 +6959,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 
 ?PR?_EXTENDKEYDEBOUNCE?CORE_SCAN                 -----    -----      -----    -----      -----    -----
   +--> ?PR?CORE_SCAN
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 117
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 117
 
 
 
@@ -7019,7 +7019,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?_APS_CMD_11?OEM_GSNS
   +--> ?PR?_APS_CMD_12?OEM_GSNS
   +--> ?PR?_APS_CMD_13?OEM_GSNS
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 118
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 118
 
 
   +--> ?PR?_APS_CMD_14?OEM_GSNS
@@ -7079,7 +7079,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?PM2_6CCMD_81DATA?OEM_PM2
   +--> ?PR?_CMD_B1?OEM_6064
   +--> ?PR?_CMD_B7?OEM_6064
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 119
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 119
 
 
 
@@ -7139,7 +7139,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?HOOK_TPONLYLOWLEVELFUNC?OEM_PS2
   +--> ?PR?_SEND2PORTNWAIT?CORE_PS2
   +--> ?PR?CORE_PS2
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 120
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 120
 
 
 
@@ -7199,7 +7199,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?IRQ_INT19_PS2INTERRUPT1?CORE_IRQ
   +--> ?PR?IRQ_INT20_PS2INTERRUPT0?CORE_IRQ
   +--> ?PR?IRQ_INT21_WKO22?CORE_IRQ
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 121
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 121
 
 
   +--> ?PR?IRQ_INT22_SMFISEMAPHORE?CORE_IRQ
@@ -7259,7 +7259,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?IRQ_INT76_WKO74?CORE_IRQ
   +--> ?PR?IRQ_INT77_WKO75?CORE_IRQ
   +--> ?PR?IRQ_INT78_WKO76?CORE_IRQ
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 122
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 122
 
 
   +--> ?PR?IRQ_INT79_WKO77?CORE_IRQ
@@ -7319,7 +7319,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?IRQ_INT133_WKO133?CORE_IRQ
   +--> ?PR?IRQ_INT134_WKO134?CORE_IRQ
   +--> ?PR?IRQ_INT135_NULL?CORE_IRQ
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 123
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 123
 
 
   +--> ?PR?IRQ_INT136_NULL?CORE_IRQ
@@ -7379,7 +7379,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
   +--> ?PR?HOOK_IRQ_INT12_WKO26?OEM_IRQ
 
 ?PR?IRQ_INT13_WKINTC?CORE_IRQ                    -----    -----      -----    -----      -----    -----
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 124
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 124
 
 
   +--> ?PR?HOOK_IRQ_INT13_WKINTC?OEM_IRQ
@@ -7439,7 +7439,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 ?PR?IRQ_INT32_GPINT0?CORE_IRQ                    -----    -----      -----    -----      -----    -----
   +--> ?PR?HOOK_IRQ_INT32_GPINT0?OEM_IRQ
 
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 125
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 125
 
 
 ?PR?IRQ_INT33_GPINT1?CORE_IRQ                    -----    -----      -----    -----      -----    -----
@@ -7499,7 +7499,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 ?PR?IRQ_INT51_WKO63?CORE_IRQ                     -----    -----      -----    -----      -----    -----
   +--> ?PR?HOOK_IRQ_INT51_WKO63?OEM_IRQ
 
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 126
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 126
 
 
 ?PR?IRQ_INT52_WKO64?CORE_IRQ                     -----    -----      -----    -----      -----    -----
@@ -7559,7 +7559,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 ?PR?IRQ_INT70_NULL?CORE_IRQ                      -----    -----      -----    -----      -----    -----
   +--> ?PR?HOOK_IRQ_INT70_NULL?OEM_IRQ
 
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 127
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 127
 
 
 ?PR?IRQ_INT71_I2BRAM?CORE_IRQ                    -----    -----      -----    -----      -----    -----
@@ -7619,7 +7619,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 ?PR?IRQ_INT88_WKO80?CORE_IRQ                     -----    -----      -----    -----      -----    -----
   +--> ?PR?HOOK_IRQ_INT88_WKO80?OEM_IRQ
 
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 128
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 128
 
 
 ?PR?IRQ_INT89_WKO81?CORE_IRQ                     -----    -----      -----    -----      -----    -----
@@ -7679,7 +7679,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 ?PR?IRQ_INT107_WKO102?CORE_IRQ                   -----    -----      -----    -----      -----    -----
   +--> ?PR?HOOK_IRQ_INT107_WKO102?OEM_IRQ
 
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 129
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 129
 
 
 ?PR?IRQ_INT108_WKO103?CORE_IRQ                   -----    -----      -----    -----      -----    -----
@@ -7739,7 +7739,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 ?PR?IRQ_INT126_WKO121?CORE_IRQ                   -----    -----      -----    -----      -----    -----
   +--> ?PR?HOOK_IRQ_INT126_WKO121?OEM_IRQ
 
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 130
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 130
 
 
 ?PR?IRQ_INT127_WKO122?CORE_IRQ                   -----    -----      -----    -----      -----    -----
@@ -7799,7 +7799,7 @@ SEGMENT                                             BIT_GROUP          DATA_GROU
 ?PR?IRQ_INT144_NULL?CORE_IRQ                     -----    -----      -----    -----      -----    -----
   +--> ?PR?HOOK_IRQ_INT144_NULL?OEM_IRQ
 
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 131
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 131
 
 
 ?PR?IRQ_INT145_NULL?CORE_IRQ                     -----    -----      -----    -----      -----    -----
@@ -7859,7 +7859,7 @@ ADDRESS    FUNCTION NAME
  5342H     HOOK_IRQ_INT28_GINTOFGPD5
  5348H     HOOK_IRQ_INT29_EGPC
  534EH     HOOK_IRQ_INT30_ET1
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 132
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 132
 
 
  5354H     HOOK_IRQ_INT31_WKO21
@@ -7919,7 +7919,7 @@ ADDRESS    FUNCTION NAME
  5498H     HOOK_IRQ_INT85_WKO88
  549EH     HOOK_IRQ_INT86_WKO89
  54A4H     HOOK_IRQ_INT87_WKO90
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 133
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 133
 
 
  54AAH     HOOK_IRQ_INT88_WKO80
@@ -7979,7 +7979,7 @@ ADDRESS    FUNCTION NAME
  55EEH     HOOK_IRQ_INT142_NULL
  55F4H     HOOK_IRQ_INT143_NULL
  55FAH     HOOK_IRQ_INT144_NULL
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 134
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 134
 
 
  5600H     HOOK_IRQ_INT145_NULL
@@ -8039,7 +8039,7 @@ ADDRESS    FUNCTION NAME
  5744H     CHECK_EC_ON
  574AH     SETACIN_INT
  5750H     SETPWRSW_INT
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 135
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 135
 
 
  5756H     SETPD_INT
@@ -8099,7 +8099,7 @@ ADDRESS    FUNCTION NAME
  589AH     _UCSIHOUSEKEEPER
  58A0H     TWR_INITIAL
  58A6H     TPG_LED
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 136
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 136
 
 
  58ACH     BEEPCONTROL
@@ -8159,7 +8159,7 @@ ADDRESS    FUNCTION NAME
  59F0H     WLANWAKEHI
  59F6H     CHK_BATTERY_FULL
  59FCH     UNLOCK_SHIPMODE
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 137
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 137
 
 
  5A02H     _BATLEARNPROCESS
@@ -8219,7 +8219,7 @@ ADDRESS    FUNCTION NAME
  5B46H     DOWNBATTERYPSTATE
  5B4CH     UPBATTERYPSTATE
  5B52H     OEM_TYPE_C_ADPID_HOOK
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 138
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 138
 
 
  5B58H     DUMMYFUNCTION
@@ -8279,7 +8279,7 @@ ADDRESS    FUNCTION NAME
  5C9CH     _HOTKEY_FN_SPACE
  5CA2H     _ECQEVENT
  5CA8H     _ECSMIEVENT
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 139
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 139
 
 
  5CAEH     DISABLEINTERNALWDT
@@ -8339,7 +8339,7 @@ SYMBOL TABLE OF MODULE:  ITEEC.ABS (CORE_IRQ)
   B:0088H.0       SYMBOL        IT0
   B:0088H.2       SYMBOL        IT1
   D:00F7H         SYMBOL        MPRECF
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 140
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 140
 
 
   B:00D0H.2       SYMBOL        OV
@@ -8399,7 +8399,7 @@ SYMBOL TABLE OF MODULE:  ITEEC.ABS (CORE_IRQ)
   C:29C5H         LINE#         119
   -------         ENDMOD        CORE_ASM
 
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 141
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 141
 
 
   -------         MODULE        ?BANK?SWITCHING
@@ -8459,7 +8459,7 @@ SYMBOL TABLE OF MODULE:  ITEEC.ABS (CORE_IRQ)
   D:0083H         SYMBOL        DPH
   D:0082H         SYMBOL        DPL
   N:0000H         SYMBOL        IBPSTACK
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 142
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 142
 
 
   N:0100H         SYMBOL        IBPSTACKTOP
@@ -8519,7 +8519,7 @@ SYMBOL TABLE OF MODULE:  ITEEC.ABS (CORE_IRQ)
   B:00A8H.5       SYMBOL        ET2
   B:00A8H.0       SYMBOL        EX0
   B:00A8H.2       SYMBOL        EX1
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 143
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 143
 
 
   B:00C8H.3       SYMBOL        EXEN2
@@ -8579,7 +8579,7 @@ SYMBOL TABLE OF MODULE:  ITEEC.ABS (CORE_IRQ)
   B:0098H.1       SYMBOL        TI
   D:008AH         SYMBOL        TL0
   D:008BH         SYMBOL        TL1
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 144
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 144
 
 
   D:00CCH         SYMBOL        TL2
@@ -8639,7 +8639,7 @@ SYMBOL TABLE OF MODULE:  ITEEC.ABS (CORE_IRQ)
   B:0088H.1       SYMBOL        IE0
   B:0088H.3       SYMBOL        IE1
   B:00B0H.2       SYMBOL        INT0
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 145
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 145
 
 
   B:00B0H.3       SYMBOL        INT1
@@ -8699,7 +8699,7 @@ SYMBOL TABLE OF MODULE:  ITEEC.ABS (CORE_IRQ)
   B:00C8H.2       SYMBOL        TR2
   D:00D8H         SYMBOL        WDTCON
   B:00D8H.1       SYMBOL        WDTEB
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 146
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 146
 
 
   B:00D8H.0       SYMBOL        WDTRST
@@ -8759,7 +8759,7 @@ SYMBOL TABLE OF MODULE:  ITEEC.ABS (CORE_IRQ)
   -------         ENDMOD        ?C?COPY
 
   -------         MODULE        ?C?CLDPTR
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 147
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 147
 
 
   C:71FBH         PUBLIC        ?C?CLDPTR
@@ -8819,7 +8819,7 @@ SYMBOL TABLE OF MODULE:  ITEEC.ABS (CORE_IRQ)
 
   -------         MODULE        ?C?LNEG
   C:74BEH         PUBLIC        ?C?LNEG
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 148
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 148
 
 
   -------         ENDMOD        ?C?LNEG
@@ -8879,7 +8879,7 @@ SYMBOL TABLE OF MODULE:  ITEEC.ABS (CORE_IRQ)
   -------         MODULE        ?C?ICALL
   C:7605H         PUBLIC        ?C?ICALL
   C:7609H         PUBLIC        ?C?ICALL2
-BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  10:06:52  PAGE 149
+BL51 BANKED LINKER/LOCATER V6.11                                                      09/10/2018  13:37:17  PAGE 149
 
 
   -------         ENDMOD        ?C?ICALL
