@@ -1,0 +1,149 @@
+1.Modify MS Edge does not exit Full screen via F11 key in sticky mode.
+2.Modify POWER LED GPIO init to solve Unlock ship mode power led will light three time
+3.Modify battery charge voltage to solve Battery capacity cannot charge to 100%
+4.Update fan table
+R0UHT47WW(v0.47)
+1.Add notify battery change event when battery RSOC<10%
+R0UHT45WW(v0.45)
+1.Modify battery RSOC to 20% for imitate CPU SPL/SPPT/FPPT to 8W
+R0UHT61WW(v0.61)
+R0UHT60WW(v0.60)
+R0UHT44WW(v0.44)
+1.Optimize PROCHOT signal from S3 to S0.
+R0UHT43WW(v0.43)
+1.Optimize UK/JP keyboard matrix.
+R0UHT42WW(v0.42)
+1.Modify PROCHOT pin to OD.
+2.Optimize low battery throttling feature
+3.Update fan table follow thermal team
+4.optimize multilingual keyboard for special keys.
+R0UHT41WW(v0.41)
+1.Add multilingual keyboard for special keys.
+2.Add STP feature for thermal request.
+R0UHT40WW(v0.40)
+R0UHT26WW(v0.26)
+R0UHT25WW(v0.25)
+1.Optimized UCSI HLK and P2P compatibility.
+R0UHT24WW(v0.24)
+R0UHT23WW(v0.23)
+1.Add retry adapter watt times when watt<30w
+R0UHT22WW(v0.22)
+1.Optimize ECR478942 Plug/unplug AC Battery will stop charging when RSOC in the middle of start and stop
+2.Optimize P2P charge function follow test cause
+R0UHT21WW(v0.21)
+1.Modify P2P charge for S0/S3/S4 change
+R0UHT20WW(v0.20)
+1.Add wake on lan flag in EC EEPROM.
+2.Fix ECR478942 Battery will continue charging when electric capacity reach the stop charging threshold.
+3. Modify WOL from S5 does not wake up system to PXE boot using Magic Packet
+4.Fix F1 - F12 as Primary Function  does not work as intended on DOS environment
+5.Optimize P2P function.
+R0UHT19WW(v0.19)
+1.Fix ECR474204 : Keyboard key input in long press has noticeable interval time or delay 
+2.Modify get VDM flow chart follow PD to fix can't detect DOCK
+R0UHT17WW(v0.18)
+1.Fix ECR474104:Hidden keys do not function after entering S3 when Fn Sticky Key is Enabled 
+2.Fix ECR473990:Wrong output after pressing two keys at the same time K+J , F+D , Shift+/
+3.Optimize UCSI feature
+R0UHT17WW(v0.17)
+1.Modify plug/unplug battery status LED abnormal
+2.Optimize read CPU temperature times
+3.Add smi flag for bios hang log
+4.Modify dock no function and UCSI WHLK issue
+R0UHT16WW(v0.16)
+1.Patch for LiteOn TypeC adpater 45W/65W PDFW issue on Realtek/TI PD IC follow EX80
+2.Modify TP reset signal for S5/S3 to S0
+3.Optimize special key function
+4.Patch for hang lenovo log
+R0UHT15WW(v0.15)
+1.Modify power off LED when close lid.
+2.Modify battery icon show asynchronism when charge full.
+3.Optimize UCSI register.
+4.Modify Press "Fn+k" and release Fn first again,screen still lock
+5.Modify fan table follow thermal
+R0UHT14WW(v0.14)
+1.Modify SMI event.
+2.Add 68/6C port 56 cmd for bios get version.
+3.Modify read PD WATT retry times.
+4.Add PD reconnect feature.
+R0UHT13WW(v0.13)
+1.Remove fan control by thermal IC temperature.
+2.Support PD switch 20v to 9v.
+3.Modify show slow charge issue.
+4.Remove PD reconnect.
+R0UHT12WW(v0.12)
+1.Remove workaround for LPC voltage swing.
+2.Optimize fan tatable setting.
+3.Enable fan table and Tamper_function.
+4.Remove over adapter current trigger.
+5.Disable show slow charge.
+R0UHT11WW(v0.11)
+1.Workaound for AOU wake device 
+2.Disable fan table
+3.Disable slow charge for UCSI.
+4.Enable fan table for SIT
+4.Woraround pulse smi for bios hang
+R0UHT10WW(v0.10)
+1.Modify mute status.
+2.Add workaround for LPC voltage swing
+R0UHT09WW(v0.09)
+1.Add retry adapter power mechanism.
+2.Enable smi. 
+3.Add mute function in setup.
+R0UHT08WW(v0.08)
+1.Remove check battery init method
+2.Modify FAN table
+3.Remove 0X04 shutdown ID
+4.Modify lan wake method follow UI spec
+5.Modify PD method for dock 
+R0UHT07WW(v0.07)
+1.Switch PDO to 20V in S0.
+R0UHT06WW(v0.06)
+1.Enable CapsLK LED function.
+2.Enable Enhanced PC Beep. 
+3.Add flash PD FW interface
+R0UHT05WW(v0.05)
+1.Remove dGPU Q_event.
+R0UHT04WW(v0.04)
+1.Modify Power setting.
+2.Add read Psys voltage.
+R0UHT03WW(v0.03)
+1.Release prochot signal.
+R0UHT02WW(v0.02)
+1.Modify keyboard FN and ctrl key swap function.
+2.Enable UCSI and Detect Adaptor Watt.
+Release V01V05
+1.Modify power status under DC mode.
+2.Workaround keep prochot signal low.
+Release V01V04
+1.Modify KB matrix.
+2.Setting fan full speed.
+3.Modify Charging_LED setting.
+Release V01V03
+1.Modify PROCHOT signallow active.
+Release V01T02
+1.Modify keyboard matrix.
+2.Setting power LED signal high active.
+Release V01T01
+1.Disale Fn_LED method.
+R0UHT01WW(v0.01)
+Release V00T28 for EVT
+1.Modify LED GPIO level effectively
+2.Change GPIO I6 from VGA_AC_BATT to PWR_SYS.
+3.Disable mirro code feature.
+4.Modify mute signal count.
+R0UHT01WW(v0.01)
+1.Add build ID
+
+Release V01
+1. Enable WOL from G3 in AC mode
+Release V00T27
+1. Enable WOL in AC mode.
+2. Modify AOU disable*2 setting.
+3. Power switch delay 1-2s in DC mode.
+Release V00T25 sane as V00T24
+1. Enable EC SLEEP¡¡mode.
+2. Set TPM RESET following Power seq.
+3. Modify AOU power setting in DC S5.
+4. Workaroud for battery ICON show in OS.
+5. Set GPE2 OD.
